@@ -1,0 +1,19 @@
+.app {
+  width: 100%;
+}
+
+.section__padding {
+  padding: 4rem 6rem;
+}
+
+.bg__header {
+  background-color: var(--color-blue);
+}
+
+.bg__content {
+  background-color: greenyellow;
+}
+
+.bg__footer {
+  background-color: orangered;
+}

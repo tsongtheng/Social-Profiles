@@ -1,6 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+:root {
+  --font-main: "Roboto", sans-serif;
+  --font-header: "Playfair Display", serif;
+
+  --color-black: #040d12;
+  --color-blue: #1d267d;
+  --color-gray: #b9b4c7;
+  /* --color-red: #cd1818; */
+  --color-red: #ff6969;
+  --color-white: #d2e0fb;
+}
+
 * {
-  box-sizing: border-box;
   padding: 0;
   margin: 0;
+  box-sizing: inherit;
   scroll-behavior: smooth;
+}
+
+html {
+  font-size: 62.5%; /* 10/16 * 100 = 62.5% */
+}
+
+body {
+  font-family: var(--font-main);
+  box-sizing: border-box;
 }

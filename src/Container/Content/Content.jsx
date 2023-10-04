@@ -3,9 +3,7 @@ import Card from "../../components/Card/Card";
 
 const Content = () => {
   return (
-    <div>
-      <Card />
-    </div>
+    <div className="app__content bg__content section__padding">content</div>
   );
 };
 
