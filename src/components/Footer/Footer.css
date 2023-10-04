@@ -1,3 +1,23 @@
 .app__footer {
   width: 100%;
+  height: 15vh;
+  font-size: 1.8rem;
+  color: var(--color-gray);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+  .app__footer {
+    height: 12vh;
+    font-size: 1.4rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .app__footer {
+    height: 10vh;
+    font-size: 1rem;
+  }
 }

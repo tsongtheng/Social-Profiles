@@ -15,5 +15,5 @@
 }
 
 .bg__footer {
-  background-color: orangered;
+  background-color: var(--color-black);
 }
