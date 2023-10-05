@@ -3,17 +3,15 @@
 }
 
 .section__padding {
-  padding: 4rem 6rem;
+  padding: 6rem 10rem;
 }
 
 .bg__header {
   background-color: var(--color-blue);
-}
-
-.bg__content {
-  background-color: greenyellow;
+  opacity: 95%;
 }
 
 .bg__footer {
   background-color: var(--color-black);
+  opacity: 80%;
 }
