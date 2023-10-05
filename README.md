@@ -26,6 +26,13 @@ You can checkout the social profiles of other people who has contributed to this
    cd Add-Social-Profiles-Hacktoberfest2023
    ```
 
+   run
+
+   ```bash
+   npm install
+   npm start
+   ```
+
 4. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
    ```bash
