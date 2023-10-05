@@ -7,9 +7,9 @@
   --color-black: #040d12;
   --color-blue: #1d267d;
   --color-gray: #b9b4c7;
-  /* --color-red: #cd1818; */
   --color-red: #ff6969;
   --color-white: #d2e0fb;
+  --color-dark-blue: #0a2647;
 }
 
 * {
@@ -26,4 +26,11 @@ html {
 body {
   font-family: var(--font-main);
   box-sizing: border-box;
+
+  background: url(https://cdn.pixabay.com/photo/2020/10/14/16/14/space-5654794_1280.png);
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  background-attachment: fixed;
 }
