@@ -2,7 +2,7 @@ import React from "react";
 import { v4 as uuidv4 } from "uuid";
 
 import Card from "../../components/Card/Card";
-import Profiles from "../../Profile/Profiles";
+import Profiles from "../../Profiles/Profiles";
 
 import "./Content.css";
 
