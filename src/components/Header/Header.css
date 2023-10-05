@@ -77,7 +77,7 @@
   }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 540px) {
   .app__header {
     height: 18vh;
   }
@@ -91,16 +91,30 @@
   }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 450px) {
   .app__header {
     height: 17vh;
   }
 
   .app__header h1 {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   .app__header h3 {
     font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .app__header {
+    height: 16vh;
+  }
+
+  .app__header h1 {
+    font-size: 1.8rem;
+  }
+
+  .app__header h3 {
+    font-size: 0.7rem;
   }
 }
