@@ -53,7 +53,7 @@ You can checkout the social profiles of other people who has contributed to this
 
 6. On your computer, open your text editor, and go to **src** directory (folder).
 
-   Inside you will find **Profiles** directory, click on `Profiles.js`. You will see an array of objects, each one represents a name, imageLink and social account links of someone. Copy an example object and paste it at the end, fill it out with your name, image links(you can copy any social account profile image adress and paste it) social accounts links.
+   Inside you will find **Profiles** directory, click on `Profiles.js`. You will see an array of objects, each one represents a name, imageLink and social account links of someone. Copy an example object and paste it at the end, fill it out with your name, imageLinks(you can copy any social account profile image address and paste it) and social accounts links.
 
 ```js
 let Profiles = [
@@ -89,11 +89,6 @@ let Profiles = [
 9. Go to the GitHub page of _your fork_, and make a pull request:
 
 10. Wait until your pull request is merged. If there are any conflicts, you will get a notification and have to resolve the conflict.
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Editing Add-Social-Profiles-Hacktoberfest2023/README.md at main · tsongtheng/Add-Social-Profiles-Hacktoberfest2023
 
 # License
 
