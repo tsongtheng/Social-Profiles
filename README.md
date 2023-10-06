@@ -8,7 +8,7 @@ You can checkout the social profiles of other people who has contributed to this
 
 # How to contribute
 
-1. On the [GitHub page for this repository](https://github.com/tsongtheng/Add-Social-Profiles-Hacktoberfest2023), click on the button "Fork."
+1. On the [GitHub page for this repository](https://github.com/tsongtheng/Add-Social-Profiles-Hacktoberfest2023), click on the button "**Star**" and then click on the button "**Fork**".
 
 2. Clone _your forked repository_ to your computer:
 
