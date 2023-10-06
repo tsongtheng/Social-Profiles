@@ -8,6 +8,15 @@ let Profiles = [
     linkedinLink: "https://www.linkedin.com/in/tipchan-songtheng-5417991a8/",
     instagramLink: "",
   },
+  {
+    name: "Esin Ridollah",
+    imageLink: "https://avatars.githubusercontent.com/u/86829637?v=4",
+    twitterLink: "https://twitter.com/esinnation",
+    facebookLink: "",
+    githubLink: "https://github.com/esinnation",
+    linkedinLink: "https://www.linkedin.com/in/esin-ridollah/",
+    instagramLink: "",
+  },
 ];
 
 export default Profiles;
