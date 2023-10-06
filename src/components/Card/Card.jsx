@@ -1,5 +1,7 @@
 import React from "react";
 
+import { defaultImage } from "../../assets";
+
 import {
   FaXTwitter,
   FaFacebook,
@@ -40,9 +42,15 @@ const Card = ({ obj }) => {
   return (
     <div className="app__card bg__card">
       <div className="card__img">
-        <a href={obj.imageLink}>
-          <img src={obj.imageLink} alt={obj.name} />
-        </a>
+        {obj.imageLink === "" ? (
+          <a href={defaultImage}>
+            <img src={defaultImage} alt={obj.name} />
+          </a>
+        ) : (
+          <a href={obj.imageLink}>
+            <img src={obj.imageLink} alt={obj.name} />
+          </a>
+        )}
       </div>
 
       <p>{obj.name}</p>
