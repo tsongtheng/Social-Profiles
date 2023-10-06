@@ -10,6 +10,15 @@ let Profiles = [
     instagramLink: "",
   },
   {
+        name: "Chammoun Chakhap",
+        imageLink: "https://avatars.githubusercontent.com/u/43007452?v=4",
+        twitterLink: "",
+        facebookLink: "",
+        githubLink: "https://github.com/chammounc",
+        linkedinLink: "https://www.linkedin.com/in/chammoun-chakhap-771093171",
+        instagramLink: "",
+    },
+  {
     name: "Esin Ridollah",
     imageLink: "https://avatars.githubusercontent.com/u/86829637?v=4",
     twitterLink: "https://twitter.com/esinnation",
