@@ -27,10 +27,13 @@ body {
   font-family: var(--font-main);
   box-sizing: border-box;
 
-  background: url(https://cdn.pixabay.com/photo/2020/10/14/16/14/space-5654794_1280.png);
+  /* background: url(https://cdn.pixabay.com/photo/2020/10/14/16/14/space-5654794_1280.png); */
+  background: url(https://img.freepik.com/free-vector/colorful-futuristic-background-with-shiny-particles_52683-42650.jpg?w=1060&t=st=1696594295~exp=1696594895~hmac=3490b9dfc3b1e77003cc46a129ca4678c3d2a75f615edb0e7fa3cd97d2061750);
+  
+   /* background: url(https://img.freepik.com/free-vector/futuristic-technological-wallpaper_79603-1093.jpg?w=1060&t=st=1696594402~exp=1696595002~hmac=5914c6c9144ab76efeb4b606b1611ad03442e9939c5d52e49bd8a2d47372c5b7); */
 
   background-position: center;
   background-size: cover;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-attachment: fixed;
 }
