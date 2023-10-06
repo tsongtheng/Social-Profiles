@@ -36,8 +36,8 @@ You can checkout the social profiles of other people who has contributed to this
 4. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
    ```bash
-   git remote add https://github.com/tsongtheng/Add-Social-Profiles-Hacktoberfest2023.git
-   git pull upstream master
+   git remote add upstream https://github.com/tsongtheng/Add-Social-Profiles-Hacktoberfest2023.git
+   git pull upstream main
    ```
 
 5. After adding the upstream and checking that all files are up to date, we now will create new branch before editing any files. There are two ways to do so:
