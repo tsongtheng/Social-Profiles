@@ -101,7 +101,7 @@
   }
 
   .app__header h3 {
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 }
 
@@ -111,10 +111,10 @@
   }
 
   .app__header h1 {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
   }
 
   .app__header h3 {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
   }
 }
