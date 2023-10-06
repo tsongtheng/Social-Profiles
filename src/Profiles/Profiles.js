@@ -1,7 +1,8 @@
 let Profiles = [
   {
     name: "Tipchan Sontheng",
-    imageLink: "https://avatars.githubusercontent.com/u/69814398?v=4",
+    imageLink:
+      "https://pbs.twimg.com/profile_images/1710009010873872384/Sohs7yX2_400x400.jpg",
     twitterLink: "https://twitter.com/tipchan_s",
     facebookLink: "",
     githubLink: "https://github.com/tsongtheng",
@@ -15,11 +16,11 @@ let Profiles = [
     facebookLink: "",
     githubLink: "https://github.com/esinnation",
     linkedinLink: "https://www.linkedin.com/in/esin-ridollah/",
-     instagramLink:"https://www.instagram.com/esinnation/"
+    instagramLink: "https://www.instagram.com/esinnation/",
   },
   {
     name: "ISHAN AHMAD",
-    imageLink: "https://avatars.githubusercontent.com/u/69814398?v=4",
+    imageLink: "",
     twitterLink: "",
     facebookLink: "",
     githubLink: "https://github.com/ishan-nahid",
