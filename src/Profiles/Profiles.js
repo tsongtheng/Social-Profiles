@@ -36,6 +36,15 @@ let Profiles = [
     linkedinLink: "",
     instagramLink: "",
   },
+  {
+    name: "aecuto",
+    imageLink: "",
+    twitterLink: "",
+    facebookLink: "",
+    githubLink: "https://github.com/aecuto",
+    linkedinLink: "",
+    instagramLink: "",
+  },
 ];
 
 export default Profiles;
