@@ -45,6 +45,15 @@ let Profiles = [
     linkedinLink: "",
     instagramLink: "",
   },
+  {
+   name: "Mayank-Creater",
+   imageLink: "https://avatars.githubusercontent.com/u/67818466?v=4",
+   twitterLink: "",
+   facebookLink: "",
+   githubLink: "https://github.com/Mayank-Creater",
+   linkedinLink: "",
+   instagramLink: "",
+ },
 ];
 
 export default Profiles;
