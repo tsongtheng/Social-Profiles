@@ -96,4 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Image Credits
 
-Image by <a href="https://pixabay.com/users/18706286-18706286/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5654794">18706286</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5654794">Pixabay</a>
+<!-- Image by <a href="https://pixabay.com/users/18706286-18706286/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5654794">18706286</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5654794">Pixabay</a> -->
+
+Image by <a href="https://pixabay.com/users/manuchi-1728328/">1728328</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5654794">Pixabay</a>
