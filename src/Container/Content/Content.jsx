@@ -6,11 +6,20 @@ import Profiles from "../../Profiles/Profiles";
 
 import "./Content.css";
 
+const Shuffle = (o) => {
+  for (
+    var j, x, i = o.length;
+    i;
+    j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
+  );
+  return o;
+};
+
 const Content = () => {
   console.log(Profiles[0].imageLink);
   return (
     <div className="app__content section__padding">
-      {Profiles.map((obj, key) => (
+      {Shuffle(Profiles).map((obj, key) => (
         <Card key={uuidv4()} obj={obj} />
       ))}
     </div>
