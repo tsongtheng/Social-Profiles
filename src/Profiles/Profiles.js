@@ -1,6 +1,6 @@
 let Profiles = [
   {
-    name: "Tipchan Sontheng",
+    name: "Tipchan Songtheng",
     imageLink:
       "https://pbs.twimg.com/profile_images/1710009010873872384/Sohs7yX2_400x400.jpg",
     twitterLink: "https://twitter.com/tipchan_s",
@@ -10,14 +10,14 @@ let Profiles = [
     instagramLink: "",
   },
   {
-        name: "Chammoun Chakhap",
-        imageLink: "https://avatars.githubusercontent.com/u/43007452?v=4",
-        twitterLink: "",
-        facebookLink: "",
-        githubLink: "https://github.com/chammounc",
-        linkedinLink: "https://www.linkedin.com/in/chammoun-chakhap-771093171",
-        instagramLink: "",
-    },
+    name: "Chammoun Chakhap",
+    imageLink: "https://avatars.githubusercontent.com/u/43007452?v=4",
+    twitterLink: "",
+    facebookLink: "",
+    githubLink: "https://github.com/chammounc",
+    linkedinLink: "https://www.linkedin.com/in/chammoun-chakhap-771093171",
+    instagramLink: "",
+  },
   {
     name: "Esin Ridollah",
     imageLink: "https://avatars.githubusercontent.com/u/86829637?v=4",
