@@ -54,16 +54,6 @@ let Profiles = [
    linkedinLink: "",
    instagramLink: "",
  },
-
- {
-  name:"Jagpreet Singh Khurana",
-  imageLink:"",
-  twitterLink: "",
-   facebookLink: "",
-   githubLink: "https://github.com/Jagpreet153",
-   linkedinLink: "",
-   instagramLink: "",
- }
 ];
 
 export default Profiles;
