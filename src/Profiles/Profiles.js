@@ -72,7 +72,16 @@ let Profiles = [
    githubLink: "https://github.com/TeekshaHarish",
    linkedinLink: "",
    instagramLink: "",
- }
+ },
+ {
+  name: "Yash Doke",
+  imageLink: "https://avatars.githubusercontent.com/u/140625127?v=4",
+  twitterLink: "",
+  facebookLink: "",
+  githubLink: "https://github.com/22Yash",
+  linkedinLink: "https://www.linkedin.com/in/yash-doke-232804271/",
+  instagramLink: "",
+},
 ];
 
 export default Profiles;
