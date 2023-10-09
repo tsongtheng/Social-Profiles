@@ -63,6 +63,15 @@ let Profiles = [
    githubLink: "https://github.com/Jagpreet153",
    linkedinLink: "",
    instagramLink: "",
+ },
+ {
+  name:"Teeksha Harish",
+  imageLink:"https://www.entoin.com/images/chara27.jpg",
+  twitterLink: "",
+   facebookLink: "",
+   githubLink: "https://github.com/TeekshaHarish",
+   linkedinLink: "",
+   instagramLink: "",
  }
 ];
 
