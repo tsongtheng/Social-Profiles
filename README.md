@@ -1,6 +1,6 @@
 # Social Profiles
 
-Hello and welcome to [**Social Profiles**](https://social-profiles-hacktoberfest.netlify.app/), a project for Hacktoberfest! This site is for beginners who are wiling to make a pull request to win the 2023 Hacktoberfest rewards.
+Hello and welcome to [**Social Profiles**](https://social-profiles-hacktoberfest.netlify.app/). This site is for beginners who are wiling to contribute to **open-source** project and make a first pull request.
 
 ## Features
 
