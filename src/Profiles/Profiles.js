@@ -37,6 +37,15 @@ let Profiles = [
     instagramLink: "",
   },
   {
+    name: "Aarushi Singh",
+    imageLink: "https://avatars.githubusercontent.com/u/97330615?v=4",
+    twitterLink: "",
+    facebookLink: "",
+    githubLink: "https://github.com/24-Aarushi-Singh-24",
+    linkedinLink: "",
+    instagramLink: "",
+  },
+  {
     name: "aecuto",
     imageLink: "",
     twitterLink: "",
